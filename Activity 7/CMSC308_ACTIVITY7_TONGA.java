@@ -27,7 +27,7 @@ public class calculator {
         Scanner sc = new Scanner(System.in);
 
         do {
-            System.out.println("THE CALCULATOR\n");
+            System.out.println("\nTHE CALCULATOR");
             System.out.println("1. Addition");
             System.out.println("2. Subtraction");
             System.out.println("3. Multiplication");
