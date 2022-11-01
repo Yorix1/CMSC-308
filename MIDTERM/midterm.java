@@ -36,6 +36,7 @@ public class midterm {
                 }
                 testing.add(process(arrInput));
             }
+            System.out.println();
             for (int i = 0; i < testing.size(); i++) {
                 System.out.println(String.format("Number of Holiday per Test Case %s: %s", i + 1, testing.get(i)));
             }
